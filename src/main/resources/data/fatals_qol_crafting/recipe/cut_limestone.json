@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "aa ",
+    "aa "
+  ],
+  "key": {
+    "a": {
+      "item": "create:cut_limestone_stairs"
+    }
+  },
+  "result": {
+    "id": "create:cut_limestone",
+    "count": 3
+  }
+}

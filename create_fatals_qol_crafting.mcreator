@@ -1,0 +1,44 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:fatals_qol_crafting:stones": [
+      "EXTERNAL:create:asurine",
+      "EXTERNAL:create:crimsite",
+      "EXTERNAL:create:limestone",
+      "EXTERNAL:create:veridium",
+      "EXTERNAL:create:ochrum"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "create_fatals_qol_crafting",
+    "modName": "Create: Fatal\u0027s QoL Crafting",
+    "version": "1.0.0",
+    "description": "Adds compatibility between Fatal’s QoL Crafting and Create",
+    "author": "FatalMIstake02",
+    "websiteURL": "https://fatalmistake02.com",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "create_fatals_qol_crafting_logo",
+    "requiredMods": [
+      "fatals_qol_crafting",
+      "create"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.createfatalsqolcrafting"
+  },
+  "mcreatorVersion": 202500113416
+}
